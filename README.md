@@ -1,6 +1,6 @@
 #
 
-## Mapping SDGs to patents through concept-extraction via LLMs
+## From scratch to silver: creating trustworthy training data for patent-SDG classification
 Author(s): Grazia Sveva Ascione and Nicolò Tamagnone
 
 This project provides the main utilities for associating Sustainable Development Goals (SDGs) with patents and scientific papers using semantic embeddings, LLM-based extraction, weak supervision and hyperparameter optimization. It was not possible to add the starting point data (SDG related scientific literature mainly), due to the size of the database. We provided anyway all the scripts used for builing the results described. 
